@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "gerinn-dev-kit"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "gerinn-dev-kit has some simple code for Objective-C, code by Gerinn LLC team."
 
   # This description is used to generate tags and improve search results.
